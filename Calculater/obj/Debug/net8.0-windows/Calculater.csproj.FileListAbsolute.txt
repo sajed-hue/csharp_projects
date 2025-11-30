@@ -1,0 +1,16 @@
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\bin\Debug\net8.0-windows\Calculater.exe
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\bin\Debug\net8.0-windows\Calculater.deps.json
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\bin\Debug\net8.0-windows\Calculater.runtimeconfig.json
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\bin\Debug\net8.0-windows\Calculater.dll
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\bin\Debug\net8.0-windows\Calculater.pdb
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.Form1.resources
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.csproj.GenerateResource.cache
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.AssemblyInfoInputs.cache
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.AssemblyInfo.cs
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.csproj.CoreCompileInputs.cache
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.dll
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\refint\Calculater.dll
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.pdb
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\Calculater.genruntimeconfig.cache
+D:\AAUP\2025-2026\First semestar 2025-2026\c#\codes\Form application material\Calculater\obj\Debug\net8.0-windows\ref\Calculater.dll
